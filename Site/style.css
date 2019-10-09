@@ -1,0 +1,106 @@
+body{
+  background-color: #393e46;
+  color: white;
+}
+.Logotipo{
+  height:4%;
+  width: 4%;
+}
+.Title{
+  background-color: #0d7377;
+  text-align: center;
+  color: white;
+  padding: 0;
+  margin: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.Sub_Title{
+  background-color: #0d7377;
+  text-align: center;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+.Title_Div{
+  background-color: #222831;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.Logo_Div{
+  text-align: center;
+}
+.Login{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Content{
+  color: white;
+  background-color: #212121;
+  border-radius: 5px;
+}
+.Login_Title{
+  text-align: center;
+  color: white;
+  background-color: #0d7377;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.Cadastro_Title{
+  text-align: center;
+  color: white;
+  background-color: #0d7377;
+}
+.Cadastrar{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Login_Button{
+  text-align: center;
+}
+.Cadastro_Button{
+  text-align: center;
+}
+.Jogos{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Comprar_Button{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Sobre{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Suporte{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Redes{
+  margin-left:auto;
+  margin-right:auto;
+}
+.Logo_Store{
+  text-align: center;
+}
+.Logotipo_Store{
+  height: 4%;
+  width: 4%;
+}
+.Logo_Sup{
+  text-align: center;
+}
+.Logotipo_Sup{
+  height: 4%;
+  width: 4%;
+}
+.Logo_sobre{
+  text-align: center;
+}
+.Logotipo_Sobre{
+  height: 4%;
+  width: 4%;
+}
